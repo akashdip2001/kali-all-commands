@@ -18,7 +18,7 @@
 # install Softwers in KALI Linux ---
        sudo dpkg -i *.deb                ( normal .deb file install command )
        ./configure  ---  make install    ( install Python in Kali command )
-How to install all type of softwers in KALI linux https://youtu.be/fDod27oOZCM      
+[**How to install all type of softwers in KALI linux**](https://youtu.be/fDod27oOZCM)      
 <br>
 <br>
 
@@ -33,7 +33,7 @@ How to install all type of softwers in KALI linux https://youtu.be/fDod27oOZCM
                
 # snap install but not Working ---
          systemctl enable --now snapd.apparmor
- How to install Snap Store in KALI linux https://youtu.be/P_qg4ujwypE
+[**How to install Snap Store in KALI linux**](https://youtu.be/P_qg4ujwypE)
 <br>
 <br>
 <br>
