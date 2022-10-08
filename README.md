@@ -13,7 +13,7 @@ all imp. commands of KALI LINUX. This repositry helps to install, Uninstall, WIF
 # install Softwers in KALI Linux ---
     sudo dpkg -i *.deb                ( normal .deb file install command )
     ./configure  ---  make install    ( install Python in Kali command )
- How to install all type of softwers in KALI LINUX https://youtu.be/fDod27oOZCM      
+ How to install all type of softwers in KALI linux https://youtu.be/fDod27oOZCM      
    
 
 
@@ -27,7 +27,7 @@ all imp. commands of KALI LINUX. This repositry helps to install, Uninstall, WIF
                
 # snap install but not Working ---
          systemctl enable --now snapd.apparmor
- How to install Snap Store in KALI LINUX https://youtu.be/P_qg4ujwypE
+ How to install Snap Store in KALI linux https://youtu.be/P_qg4ujwypE
 
 # all imp. Softwers in KALI 
     kdeconnect
