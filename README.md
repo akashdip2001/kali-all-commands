@@ -13,7 +13,7 @@ all imp. commands of KALI LINUX. This repositry helps to install, Uninstall, WIF
 # install Softwers in KALI Linux ---
     sudo dpkg -i *.deb                ( normal .deb file install command )
     ./configure  ---  make install    ( install Python in Kali command )
- 	      
+ How to install all type of softwers in KALI LINUX https://youtu.be/fDod27oOZCM      
    
 
 
