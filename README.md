@@ -11,9 +11,9 @@ sudo systemctl status systemd-resolved.service
 service bluetooth restart
 
 # install Softwers in KALI Linux ---
-    sudo dpkg -i *.deb
+    sudo dpkg -i *.deb  ( normal .deb file install command )
 
- 	  ./configure  ---  make install
+ 	./configure  ---  make install ( install Python in Kali command )
  	      
    screen-racorder: git clone https://github.com/MaartenBaert/ssr.git
 
@@ -30,22 +30,23 @@ service bluetooth restart
          systemctl enable --now snapd.apparmor
 
 
-kdeconnect
-freecad
-shotcut   ---- DaVinci
-gimp      ---- rawtherapee 
-simplescreenrecorder
-audacity
-handbrake
-codeblocks
-blender
-freeDownloadManager
-telegram
-ktouch
-virtualbox
-terminator
-edge
-audacious (mp3)
+# all imp. Softwers in KALI 
+    kdeconnect
+    freecad
+    shotcut   ---- DaVinci
+    gimp      ---- rawtherapee 
+    simplescreenrecorder
+    audacity
+    handbrake
+    codeblocks
+    blender
+    freeDownloadManager
+    telegram
+    ktouch
+    virtualbox
+    terminator
+    edge
+    audacious (mp3)
 
 
 # Delet File --  
