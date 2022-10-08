@@ -10,21 +10,24 @@ sudo systemctl status systemd-resolved.service
 # Turn ON Bluetooth
 service bluetooth restart
 
-# install Softwers in KALI Linux ----- sudo dpkg -i *.deb
+# install Softwers in KALI Linux ---
+    sudo dpkg -i *.deb
 
- 	      ./configure  ---  make install
+ 	  ./configure  ---  make install
  	      
-    screen-racorder: git clone https://github.com/MaartenBaert/ssr.git
+   screen-racorder: git clone https://github.com/MaartenBaert/ssr.git
 
 
-# uninstall  --- dpkg --list
+# uninstall  --- 
+               dpkg --list
                sudo apt --purge remove gimp
                sudo apt remove gimp
                sudo apt-get autoremove
                sudo apt purge --auto-remove gimp
                sudo apt clean
                
-# snap install but not Working --------systemctl enable --now snapd.apparmor
+# snap install but not Working ---
+         systemctl enable --now snapd.apparmor
 
 
 kdeconnect
@@ -45,4 +48,5 @@ edge
 audacious (mp3)
 
 
-Delet File --  rm -rfv ssr
+# Delet File --  
+     rm -rfv ssr
