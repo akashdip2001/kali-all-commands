@@ -1,9 +1,10 @@
 # kali-all-commands
 [![YouTube](https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo)](https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ)
 <br>
-<h6 align="right">- 🔭 I’m currently working on [**my web-site**](https://akashdip2001.github.io/linktree/)</h6>
+- 🔭 I’m currently working on [**my web-site**](https://akashdip2001.github.io/linktree/)
 <h6 align="right">all imp. commands of KALI LINUX. This repositry helps to install, Uninstall, WIFI peoblams, all usefull apps </h6>
-
+<br>
+<br>
 
 
 # WIFI Connect but Not working 
@@ -18,7 +19,8 @@
                sudo dpkg -i *.deb                ( normal .deb file install command )
                ./configure  ---  make install    ( install Python in Kali command )
  How to install all type of softwers in KALI linux https://youtu.be/fDod27oOZCM      
-   
+<br>
+<br>
 
 
 # uninstall  --- 
@@ -32,7 +34,9 @@
 # snap install but not Working ---
          systemctl enable --now snapd.apparmor
  How to install Snap Store in KALI linux https://youtu.be/P_qg4ujwypE
-
+<br>
+<br>
+<br>
 # all imp. Softwers in KALI 
     kdeconnect
     freecad
