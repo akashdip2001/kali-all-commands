@@ -27,7 +27,7 @@ all imp. commands of KALI LINUX. This repositry helps to install, Uninstall, WIF
                
 # snap install but not Working ---
          systemctl enable --now snapd.apparmor
-
+ How to install Snap Store in KALI LINUX https://youtu.be/P_qg4ujwypE
 
 # all imp. Softwers in KALI 
     kdeconnect
