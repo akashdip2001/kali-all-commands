@@ -1,7 +1,5 @@
 # kali-all-commands
 [![YouTube](https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo)](https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ)
-
-
 <br>
 - 🔭 I’m currently working on [**my web-site**](https://akashdip2001.github.io/linktree/)
 
