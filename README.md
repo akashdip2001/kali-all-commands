@@ -8,7 +8,7 @@ all imp. commands of KALI LINUX. This repositry helps to install, Uninstall, WIF
     sudo systemctl status systemd-resolved.service 
 
 # Turn ON Bluetooth
-service bluetooth restart
+    service bluetooth restart
 
 # install Softwers in KALI Linux ---
     sudo dpkg -i *.deb  ( normal .deb file install command )
