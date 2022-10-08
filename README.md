@@ -14,7 +14,7 @@
     service bluetooth restart
 
 # install Softwers in KALI Linux ---
-                sudo dpkg -i *.deb                ( normal .deb file install command )
+               sudo dpkg -i *.deb                ( normal .deb file install command )
                ./configure  ---  make install    ( install Python in Kali command )
  How to install all type of softwers in KALI linux https://youtu.be/fDod27oOZCM      
    
