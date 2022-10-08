@@ -12,10 +12,9 @@ service bluetooth restart
 
 # install Softwers in KALI Linux ---
     sudo dpkg -i *.deb  ( normal .deb file install command )
-
- 	./configure  ---  make install ( install Python in Kali command )
+    ./configure  ---  make install ( install Python in Kali command )
  	      
-   screen-racorder: git clone https://github.com/MaartenBaert/ssr.git
+   
 
 
 # uninstall  --- 
