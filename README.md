@@ -3,9 +3,9 @@ all imp. commands of KALI LINUX. This repositry helps to install, Uninstall, WIF
 
 
 # WIFI Connect but Not working 
-sudo systemctl status systemd-resolved.service 
-sudo systemctl restart systemd-resolved.service 
-sudo systemctl status systemd-resolved.service 
+    sudo systemctl status systemd-resolved.service 
+    sudo systemctl restart systemd-resolved.service (only this )
+    sudo systemctl status systemd-resolved.service 
 
 # Turn ON Bluetooth
 service bluetooth restart
