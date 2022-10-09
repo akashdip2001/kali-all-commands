@@ -28,8 +28,8 @@
 
 # uninstall  --- 
                dpkg --list
-               sudo apt --purge remove gimp
                sudo apt remove gimp
+               sudo apt --purge remove gimp
                sudo apt-get autoremove
                sudo apt purge --auto-remove gimp
                sudo apt clean
