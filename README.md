@@ -8,6 +8,8 @@
 <br>
 <br>
 
+# any previous installation not successfully completed
+     apt --fix-broken install
 
 # WIFI Connect but Not working 
     sudo systemctl status systemd-resolved.service 
