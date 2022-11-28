@@ -8,41 +8,71 @@
 <br>
 <br>
 
+---
 # any previous installation not successfully completed
-     apt --fix-broken install
+```
+apt --fix-broken install
+```
+
+---
 
 # WIFI Connect but Not working 
-    sudo systemctl status systemd-resolved.service 
-    sudo systemctl restart systemd-resolved.service (only this )
-    sudo systemctl status systemd-resolved.service 
-
+```
+sudo systemctl status systemd-resolved.service 
+sudo systemctl restart systemd-resolved.service (only this )
+sudo systemctl status systemd-resolved.service 
+```
+---
 # Turn ON Bluetooth
-    service bluetooth restart
-
+```
+service bluetooth restart
+```
+---
 # install Softwers in KALI Linux ---
-       sudo dpkg -i *.deb                ( normal .deb file install command )
-       ./configure  ---  make install    ( install Python in Kali command )
-       
+```
+sudo dpkg -i *.deb                ( normal .deb file install command )
+./configure  ---  make install    ( install Python in Kali command )
+```       
        
 [**How to install all type of softwers in KALI linux**](https://youtu.be/fDod27oOZCM)      
 
+---
+<h3>Snap Install</h3>
 
+```
+sudo su
+sudo apt update
+sudo apt install snapd
+apt update
+apt install snapd
+systemctl enable --now snapd apparmor
+```
 
-# uninstall  --- 
-               dpkg --list
-               sudo apt remove gimp
-               sudo apt --purge remove gimp
-               sudo apt-get autoremove
-               sudo apt purge --auto-remove gimp
-               sudo apt clean
-               
-# snap install but not Working ---
-         systemctl enable --now snapd.apparmor
-         
-         
+snap install but not Working ---
+```
+systemctl enable --now snapd.apparmor
+```         
 [**How to install Snap Store in KALI linux**](https://youtu.be/P_qg4ujwypE)
 
-# all imp. Softwers in KALI 
+---
+
+# uninstall  --- 
+```
+dpkg --list
+sudo apt remove gimp
+sudo apt --purge remove gimp
+sudo apt-get autoremove
+sudo apt purge --auto-remove gimp
+sudo apt clean
+```
+---
+# all imp. Softwers in KALI
+```
+    wats app - sudo snap install whatsapp-for-linux
+    telegram - sudo snap install telegram-desktop
+    viber
+    google message
+    
     kdeconnect
     freecad
     shotcut   ---- DaVinci
@@ -59,7 +89,7 @@
     terminator
     edge
     audacious (mp3)
-
+```
 
 # Delet File --  
      rm -rfv ssr
