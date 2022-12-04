@@ -92,7 +92,10 @@ sudo apt clean
 ```
 
 # Delet File --  
-     rm -rfv ssr
+```
+rm [file location]   (for Empty file)
+rm -r [...]          (for a directory)
+```
 
 [**my Website**](https://akashdip2001.github.io/linktree/)
 <h1 align="right">AKASHDIP MAHAPATRA</h1>
