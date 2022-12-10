@@ -1,3 +1,5 @@
+<img align="right" alt="Mechanical Engineering" width="400" src="https://user-images.githubusercontent.com/81384987/206849634-955fcda0-a46b-4624-a5ad-fa4ffa1eef43.png"> 
+
 # kali-all-commands
 [![YouTube](https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo)](https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ)
 <br>
@@ -96,7 +98,10 @@ sudo apt clean
 rm [file location]   (for Empty file)
 rm -r [...]          (for a directory)
 ```
-
+---
+<a href="https://akashdip2001.github.io/ubuntu-all-commaands/" class="previous">&laquo; Ubuntu linux all commands</a> <br/>
+<a href="https://akashdip2001.github.io/fedora-all-imp-commands/" class="next">Fedora linux all commands &raquo;</a>
+---
 [**my Website**](https://akashdip2001.github.io/linktree/)
 <h1 align="right">AKASHDIP MAHAPATRA</h1>
 <h3 align="right">National award from Dilhi,taken from Indian precedent Pronob Mukherjee 2012,Drawing</h3>
