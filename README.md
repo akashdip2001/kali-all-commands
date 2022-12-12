@@ -11,7 +11,9 @@
 <br>
 
 ---
-# Add Kali Repositirie ( jast copy & past the code into your Terminal - Done ✔️  )
+# Add Kali Repositirie
+<h3> jast copy & past the code into your Terminal - Done ✔️  </h3>
+
 ```
 echo "deb http://http.kali.org/kali kali-rolling main contrib non-free" | sudo tee /etc/apt/sources.list
 ```
