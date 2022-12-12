@@ -17,8 +17,8 @@
 ```
 echo "deb http://http.kali.org/kali kali-rolling main contrib non-free" | sudo tee /etc/apt/sources.list
 ```
-
-| [**offical Website**](https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/) |
+---
+| Add Kali Repositirie [**offical Website**](https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/) |
 |---|
 
 ---
@@ -26,8 +26,8 @@ echo "deb http://http.kali.org/kali kali-rolling main contrib non-free" | sudo t
 ```
 sudo apt purge --autoremove pipewire-pulse
 ```
-
-| [**offical Website**](https://www.kali.org/docs/troubleshooting/no-sound/) |
+---
+| No sound [**offical Website**](https://www.kali.org/docs/troubleshooting/no-sound/) |
 |---|
 
 ---
