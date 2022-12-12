@@ -11,7 +11,23 @@
 <br>
 
 ---
-# any previous installation not successfully completed
+# Add Kali Repositirie ( jast copy & past the code into your Terminal - Done ✔️  )
+```
+echo "deb http://http.kali.org/kali kali-rolling main contrib non-free" | sudo tee /etc/apt/sources.list
+```
+| [**offical Website**](https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/) |
+|---|
+
+---
+# No sound on Kali
+```
+sudo apt purge --autoremove pipewire-pulse
+```
+| [**offical Website**](https://www.kali.org/docs/troubleshooting/no-sound/) |
+|---|
+
+---
+# Any previous installation not successfully completed
 ```
 apt --fix-broken install
 ```
@@ -30,7 +46,7 @@ sudo systemctl status systemd-resolved.service
 service bluetooth restart
 ```
 ---
-# install Softwers in KALI Linux ---
+# Install Softwers in KALI Linux ---
 ```
 sudo dpkg -i *.deb                ( normal .deb file install command )
 ./configure  ---  make install    ( install Python in Kali command )
@@ -50,7 +66,7 @@ apt install snapd
 systemctl enable --now snapd apparmor
 ```
 
-snap install but not Working ---
+Snap install but not Working ---
 ```
 systemctl enable --now snapd.apparmor
 ```         
@@ -58,7 +74,7 @@ systemctl enable --now snapd.apparmor
 
 ---
 
-# uninstall  --- 
+# Uninstall  --- 
 ```
 dpkg --list
 sudo apt remove gimp
@@ -68,30 +84,30 @@ sudo apt purge --auto-remove gimp
 sudo apt clean
 ```
 ---
-# all imp. Softwers in KALI
-```
-    wats app - sudo snap install whatsapp-for-linux
-    telegram - sudo snap install telegram-desktop
-    viber
-    google message
-    
-    kdeconnect
-    freecad
-    shotcut   ---- DaVinci
-    gimp      ---- rawtherapee 
-    simplescreenrecorder
-    audacity
-    handbrake
-    codeblocks
-    blender
-    freeDownloadManager
-    telegram
-    ktouch
-    virtualbox
-    terminator
-    edge
-    audacious (mp3)
-```
+# All imp. Softwers in KALI
+
+| Name                      |   Work    |  Code   |
+|----------------------------|:-----------:|:------------:|
+| wats app | messaging app | sudo snap install whatsapp-for-linux |
+| telegram | messaging app | sudo snap install telegram-desktop |
+| viber | messaging app | Downlod [`link`](https://www.viber.com/en/download/) |
+| google message | messaging app |
+kdeconnect | file transfer | sudo apt install [name]
+freecad | Engineering Drawing
+shotcut | Video Editor
+gimp | photo Editor
+simplescreenrecorder | screen recorder
+audacity | audio Editor
+handbrake | video compressor
+codeblocks | coding
+blender | graphic design
+freeDownloadManager
+ktouch | Typing Pracktice
+virtualbox
+terminator
+edge
+audacious (mp3)
+
 
 # Delet File --  
 ```
@@ -99,8 +115,11 @@ rm [file location]   (for Empty file)
 rm -r [...]          (for a directory)
 ```
 ---
-<a href="https://akashdip2001.github.io/ubuntu-all-commaands/" class="previous">&laquo; Ubuntu linux all commands</a> <br/>
-<a href="https://akashdip2001.github.io/fedora-all-imp-commands/" class="next">Fedora linux all commands &raquo;</a>
+
+| <a href="https://akashdip2001.github.io/ubuntu-all-commaands/" class="previous">&laquo; Ubuntu linux all commands</a> <br/> |
+|-----------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://akashdip2001.github.io/fedora-all-imp-commands/" class="next">Fedora linux all commands &raquo;</a> |
+
 ---
 [**my Website**](https://akashdip2001.github.io/linktree/)
 <h1 align="right">AKASHDIP MAHAPATRA</h1>
@@ -110,13 +129,9 @@ rm -r [...]          (for a directory)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/akashdipaot2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashdipaot2001" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/akashdip-mahapatra-330687204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashdip-mahapatra-330687204" height="30" width="40" /></a>
-<a href="https://fb.com/drawing.hobby.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/akashdip_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/akash aot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akash aot" height="30" width="40" /></a>
-<a href="https://linktr.ee/AkashdipMahapatra" target="blank"><img align="center" src="https://d1fdloi71mui9q.cloudfront.net/8Ve5ek9uTReJwcW3kNI9_VuqJn6NiZ2bAQp7l" alt="linktree" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/akashdip2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akashdip2001" height="30" width="40" /></a>
 <a href="https://akashdip2001.github.io/linktree/" target="blank"><img align="center" src="https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo" alt="akashdip2001" height="40" width="40" /></a>
 
 </p>
