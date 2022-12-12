@@ -18,8 +18,10 @@
 echo "deb http://http.kali.org/kali kali-rolling main contrib non-free" | sudo tee /etc/apt/sources.list
 ```
 ---
-| Add Kali Repositirie [**offical Website**](https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/) |
+| Add Kali Repositirie |
 |---|
+| [**offical Website**](https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/) |
+
 
 ---
 # No sound on Kali
