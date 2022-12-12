@@ -89,12 +89,12 @@ sudo apt clean
 
 | Name  |    Work       |  Code        |
 |-----|:-------------:|:------------:|
-| wats app | messaging-app | sudo snap install whatsapp-for-linux |
-| telegram | messaging-app | sudo snap install telegram-desktop |
-| viber | messaging-app | Downlod [`link`](https://www.viber.com/en/download/) |
+| wats app | messaging app | sudo snap install whatsapp-for-linux |
+| telegram | messaging_app | sudo snap install telegram-desktop |
+| viber | messaging app | Downlod [`link`](https://www.viber.com/en/download/) |
 | google message | messaging app |
 | kdeconnect | file transfer | sudo apt install [name]
-| freecad | Engineering-Drawing |
+| freecad | Engineering_Drawing |
 | shotcut | Video Editor |
 | gimp | photo Editor |
 | simplescreenrecorder | screen recorder |
