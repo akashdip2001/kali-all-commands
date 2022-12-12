@@ -15,6 +15,7 @@
 ```
 echo "deb http://http.kali.org/kali kali-rolling main contrib non-free" | sudo tee /etc/apt/sources.list
 ```
+
 | [**offical Website**](https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/) |
 |---|
 
@@ -23,6 +24,7 @@ echo "deb http://http.kali.org/kali kali-rolling main contrib non-free" | sudo t
 ```
 sudo apt purge --autoremove pipewire-pulse
 ```
+
 | [**offical Website**](https://www.kali.org/docs/troubleshooting/no-sound/) |
 |---|
 
@@ -92,21 +94,21 @@ sudo apt clean
 | telegram | messaging app | sudo snap install telegram-desktop |
 | viber | messaging app | Downlod [`link`](https://www.viber.com/en/download/) |
 | google message | messaging app |
-kdeconnect | file transfer | sudo apt install [name]
-freecad | Engineering Drawing
-shotcut | Video Editor
-gimp | photo Editor
-simplescreenrecorder | screen recorder
-audacity | audio Editor
-handbrake | video compressor
-codeblocks | coding
-blender | graphic design
-freeDownloadManager
-ktouch | Typing Pracktice
-virtualbox
-terminator
-edge
-audacious (mp3)
+| kdeconnect | file transfer | sudo apt install [name]
+| freecad | Engineering Drawing |
+| shotcut | Video Editor |
+| gimp | photo Editor |
+| simplescreenrecorder | screen recorder |
+| audacity | audio Editor |
+| handbrake | video compressor |
+| codeblocks | coding |
+| blender | graphic design |
+| freeDownloadManager |
+| ktouch | Typing Pracktice |
+| virtualbox |
+| terminator |
+| edge | 
+| audacious | mp3 player |
 
 
 # Delet File --  
