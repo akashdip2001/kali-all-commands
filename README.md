@@ -88,8 +88,8 @@ sudo apt clean
 ---
 # All imp. Softwers in KALI
 
-| Name                      |   Work    |  Code   |
-|----------------------------|:-----------:|:------------:|
+| Name  |    Work       |  Code        |
+|-------|:-------------:|:------------:|
 | wats app | messaging app | sudo snap install whatsapp-for-linux |
 | telegram | messaging app | sudo snap install telegram-desktop |
 | viber | messaging app | Downlod [`link`](https://www.viber.com/en/download/) |
