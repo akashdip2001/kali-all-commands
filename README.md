@@ -5,6 +5,10 @@
 <br>
 - 🔭 I’m currently working on [**my web-site**](https://akashdip2001.github.io/linktree/)
 
+<br>
+<br>
+<a href="https://www.youtube.com/c/akash aot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akash aot" height="30" width="40" />My YouTube Channel</a>
+<br>
 
 <h6 align="right">all imp. commands of KALI LINUX. This repositry helps to install, Uninstall, WIFI peoblams, all usefull apps </h6>
 <br>
