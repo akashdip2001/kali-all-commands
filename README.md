@@ -91,8 +91,8 @@ sudo apt clean
 
 | Name  |    Work       |  Code        |
 |-----|-------------|:------------:|
-| | | first_install_snap_than_use_snap_command |
-| office 360 | microsoft | sudo snap install office365webdesktop --beta
+| | | First_Install_Snap_than_use_Snap_command |
+| office 360 | microsoft [`link`](https://snapcraft.io/office365webdesktop) | sudo snap install office365webdesktop --beta
 | wats app | messaging app | sudo snap install whatsapp-for-linux |
 | telegram | messaging_app | sudo snap install telegram-desktop |
 | viber | messaging app | Downlod [`link`](https://www.viber.com/en/download/) |
