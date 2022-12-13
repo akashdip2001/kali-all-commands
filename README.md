@@ -91,7 +91,9 @@ sudo apt clean
 
 | Name  |    Work       |  Code        |
 |-----|-------------|:------------:|
-| wats app | messaging app | first_install_snap_than_use_snap_command ```sudo snap install whatsapp-for-linux``` |
+| | | first_install_snap_than_use_snap_command |
+| office 360 | microsoft | sudo snap install office365webdesktop --beta
+| wats app | messaging app | sudo snap install whatsapp-for-linux |
 | telegram | messaging_app | sudo snap install telegram-desktop |
 | viber | messaging app | Downlod [`link`](https://www.viber.com/en/download/) |
 | google message | messaging app |
