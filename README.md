@@ -113,11 +113,20 @@ sudo apt clean
 | edge | 
 | audacious | mp3 player |
 
+---
 
 # Delet File --  
 ```
 rm [file location]   (for Empty file)
 rm -r [...]          (for a directory)
+```
+---
+# install Wine -- (Windows emulator for linux)
+```
+sudo dpkg --add-architecture i386
+sudo apt update
+sudo apt install wine wine64 wine32 winbind winetricks
+wine xxxxxx.exe
 ```
 ---
 
