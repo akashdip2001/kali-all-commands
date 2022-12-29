@@ -89,28 +89,30 @@ sudo apt clean
 ---
 # All imp. Softwers in KALI
 
-| Name  |    Work       |  Code        |
-|-----|-------------|:------------:|
-| | | First_Install_Snap_than_use_Snap_command |
-| office 360 | microsoft [`link`](https://snapcraft.io/office365webdesktop) | sudo snap install office365webdesktop --beta
-| wats app | messaging app | sudo snap install whatsapp-for-linux |
-| telegram | messaging_app | sudo snap install telegram-desktop |
-| viber | messaging app | Downlod [`link`](https://www.viber.com/en/download/) |
-| google message | messaging app |
-| kdeconnect | file transfer | sudo apt install [name]
-| freecad | Engineering_Drawing |
-| shotcut | Video Editor |
-| gimp | photo Editor |
-| simplescreenrecorder | screen recorder |
-| audacity | audio Editor |
-| handbrake | video compressor |
-| codeblocks | coding |
-| blender | graphic design |
+| Name  |    Work       |  normal Code  | snap Code | flathub Code |
+|-----|-------------|---------------|---------------|---------------|
+|~~~~~~~~~~~~~~~~~~~~|~~~~~~~~~~~~~~~~ |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ |
+| | |FIRST_ADD_KALI_REPOSITORY [`link`](https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/) | FIRST_ISTALL_SNAP_THEN_USE_IT [`link`](https://snapcraft.io/docs/installing-snapd) | FIRST_SETUP_FLATHUB [`link`](https://flatpak.org/setup/) |
+|~~~~~~~~~~~~~~~~~~~~|~~~~~~~~~~~~~~~~ |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ |
+| office 360 | Microsoft [`link`](https://snapcraft.io/office365webdesktop) | |sudo snap install office365webdesktop --beta
+| wats app | Messaging app | |sudo snap install whatsapp-for-linux |flatpak install flathub com.github.eneshecan.WhatsAppForLinux
+| telegram | Messaging_app | |sudo snap install telegram-desktop|flatpak install flathub org.telegram.desktop
+| viber | Messaging app | app Downlod [`link`](https://www.viber.com/en/download/) |sudo snap install viber-unofficial |flatpak install flathub com.viber.Viber
+| google message | Messaging app | scan the code using phon [`link`](https://messages.google.com/web)
+| kdeconnect | File transfer | sudo apt install kdeconnect
+| freecad | Engineering_Drawing |sudo apt install freecad|sudo snap install freecad|flatpak install flathub org.freecadweb.FreeCAD
+| shotcut | Video Editor |sudo apt install shotcut|sudo snap install shotcut --classic|[`link`](https://flathub.org/apps/details/org.shotcut.Shotcut)
+| gimp | Photo Editor |
+| simplescreenrecorder | Screen recorder |sudo apt install simplescreenrecorder
+| audacity | Audio Editor |
+| handbrake | Video compressor |
+| codeblocks | Coding |
+| blender | Graphic design |
 | freeDownloadManager |
 | ktouch | Typing Pracktice |
 | virtualbox |
 | terminator |
-| edge | 
+| edge | Browser
 | audacious | mp3 player |
 
 ---
