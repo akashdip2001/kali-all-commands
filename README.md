@@ -87,7 +87,7 @@ sudo apt purge --auto-remove gimp
 sudo apt clean
 ```
 ---
-# All imp. Softwers in KALI
+# All imp. Softwers in KALI and all [Tools](https://www.kali.org/tools/all-tools/)
 
 | Name  |    Work       |  normal Code  | snap Code | flathub Code |
 |-----|-------------|---------------|---------------|---------------|
