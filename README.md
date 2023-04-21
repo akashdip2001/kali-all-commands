@@ -87,6 +87,12 @@ sudo apt purge --auto-remove gimp
 sudo apt clean
 ```
 ---
+# force STOP any running Program
+```
+pidof [appname]
+kill -9 [number]
+```
+---
 # All imp. Softwers in KALI and all [Tools](https://www.kali.org/tools/all-tools/)
 
 | Name  |    Work       |  normal Code  | snap Code | flathub Code |
