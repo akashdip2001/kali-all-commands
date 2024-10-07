@@ -184,7 +184,6 @@ kex --win -s
 kex --esm --ip -s // for Wondows Remote Desktop
 ```
 <img src="img/wsl remote desktop connect (1).png">
-<img src="img/wsl remote desktop connect (0).png">
 <img src="img/wsl remote desktop connect.png">
 
 ### Shut Down
