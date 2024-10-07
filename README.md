@@ -1,13 +1,14 @@
 <img align="right" alt="Mechanical Engineering" width="400" src="https://user-images.githubusercontent.com/81384987/206849634-955fcda0-a46b-4624-a5ad-fa4ffa1eef43.png"> 
 
 # kali-all-commands
-[![YouTube](https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo)](https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ)
+
 <br>
+
 - 🔭 I’m currently working on [**my web-site**](https://akashdip2001.github.io/linktree/)
 
 <br>
 <br>
-<a href="https://www.youtube.com/c/akash aot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952974-0163b04e-ccae-4be5-844a-075ef85c43d2.png" alt="akash aot" height="30" width="40" />My YouTube Channel</a>
+<a href="https://www.youtube.com/c/akash aot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/81384987/209952974-0163b04e-ccae-4be5-844a-075ef85c43d2.png" alt="akash aot" height="30" width="40" />  My YouTube Channel</a>
 <br>
 <br>
 
@@ -135,6 +136,15 @@ sudo dpkg --add-architecture i386
 sudo apt update
 sudo apt install wine wine64 wine32 winbind winetricks
 wine xxxxxx.exe
+```
+<img src="https://github.com/akashdip2001/college-final-year-project/raw/main/img/colour_line.png">
+
+<img align="right" alt="Mechanical Engineering" width="400" src="img/wsl.jpg"> 
+## WAL 2 [Video](https://youtube.com/playlist?list=PL_RecMEcs_p-iAMEQascgKVMt4juhGip2&si=nzpb4GEv-QxkROI6)
+### Kali in Windows
+
+```
+
 ```
 ---
 
