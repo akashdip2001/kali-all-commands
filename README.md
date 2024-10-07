@@ -153,6 +153,40 @@ wsl --update
 wsl --status
 wsl --list --online
 wsl --install -d kali-linux
+
+// set userName : XXXX
+// set Passward : 1XX
+```
+### in Kali cell
+
+```
+cat /etc/os-release
+// PRETTY_NAME="Kali GNU/Linux Rolling"
+// NAME="Kali GNU/Linux"
+// VERSION_ID="2024.3"
+// VERSION="2024.3"
+// VERSION_CODENAME=kali-rolling
+// ID=kali
+// ID_LIKE=debian
+// HOME_URL="https://www.kali.org/"
+// SUPPORT_URL="https://forums.kali.org/"
+// BUG_REPORT_URL="https://bugs.kali.org/"
+// ANSI_COLOR="1;31"
+
+sudo apt update && sudo apt upgrade -y
+sudo apt install kali-win-kex
+kex --win -s
+// set passward (6) Ex: 1XXAs0
+// then enter Kali pass : 1XX
+
+kex --esm --ip -s // for Wondows Remote Desktop
+```
+
+### Shut Down
+
+```
+exit
+wsl --shutdown
 ```
 ---
 
