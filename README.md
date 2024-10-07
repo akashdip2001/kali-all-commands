@@ -139,7 +139,8 @@ wine xxxxxx.exe
 ```
 <img src="https://github.com/akashdip2001/college-final-year-project/raw/main/img/colour_line.png">
 
-<img align="right" alt="Mechanical Engineering" width="400" src="img/wsl.jpg"> 
+[<img align="right" alt="Mechanical Engineering" width="400" src="img/wsl.jpg">](https://youtu.be/JQDbcyRa5_0)
+
 ## WAL 2 [Video](https://youtube.com/playlist?list=PL_RecMEcs_p-iAMEQascgKVMt4juhGip2&si=nzpb4GEv-QxkROI6)
 ### Kali in Windows
 
