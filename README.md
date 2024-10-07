@@ -144,8 +144,15 @@ wine xxxxxx.exe
 ## WAL 2 [Video](https://youtube.com/playlist?list=PL_RecMEcs_p-iAMEQascgKVMt4juhGip2&si=nzpb4GEv-QxkROI6)
 ### Kali in Windows
 
-```
+```go
+// Windows PowerShell
+// Copyright (C) Microsoft Corporation. All rights reserved.
+// PS C:\WINDOWS\system32> wsl --status
 
+wsl --update
+wsl --status
+wsl --list --online
+wsl --install -d kali-linux
 ```
 ---
 
