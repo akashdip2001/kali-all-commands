@@ -157,6 +157,8 @@ wsl --install -d kali-linux
 // set userName : XXXX
 // set Passward : 1XX
 ```
+<img src="img/wsl remote desktop connect (2).png">
+
 ### in Kali cell
 
 ```
@@ -181,6 +183,9 @@ kex --win -s
 
 kex --esm --ip -s // for Wondows Remote Desktop
 ```
+<img src="img/wsl remote desktop connect (1).png">
+<img src="img/wsl remote desktop connect (0).png">
+<img src="img/wsl remote desktop connect.png">
 
 ### Shut Down
 
