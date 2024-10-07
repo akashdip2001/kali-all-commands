@@ -157,7 +157,7 @@ wsl --install -d kali-linux
 // set userName : XXXX
 // set Passward : 1XX
 ```
-<img src="img/wsl remote desktop connect (2).png">
+<img src="img/wsl remote desktop connect (3).png">
 
 ### in Kali cell
 
