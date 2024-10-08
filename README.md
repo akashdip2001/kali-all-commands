@@ -160,7 +160,6 @@ wsl --install -d kali-linux
 <img src="img/wsl remote desktop connect (3).png">
 
 ### in Kali cell
-
 ```
 cat /etc/os-release
 // PRETTY_NAME="Kali GNU/Linux Rolling"
@@ -174,7 +173,9 @@ cat /etc/os-release
 // SUPPORT_URL="https://forums.kali.org/"
 // BUG_REPORT_URL="https://bugs.kali.org/"
 // ANSI_COLOR="1;31"
-
+```
+## Install `mini` Desktop envirorment with `kex server` (❌ not Recommended ❌)
+```
 sudo apt update && sudo apt upgrade -y
 sudo apt install kali-win-kex
 kex --win -s
@@ -187,10 +188,37 @@ kex --esm --ip -s // for Wondows Remote Desktop
 <img src="img/wsl remote desktop connect.png">
 
 ### Shut Down
-
 ```
 exit
 wsl --shutdown
+```
+### Uninstall kex
+```
+// Uninstall Win-KeX and Xfce
+sudo apt purge kali-win-kex
+sudo apt purge xfce4 xfce4-goodies
+sudo apt autoremove --purge
+
+// Uninstall the Current Desktop Environment (Xfce and Win-KeX)
+sudo apt purge kali-win-kex xfce4 xfce4-goodies
+sudo apt purge lightdm light-locker
+sudo apt autoremove --purge
+sudo apt clean
+```
+## Install `Full` Desktop envirorment (✅ Recommended ✅)
+```
+// Install the GNOME Desktop Environment
+sudo apt update
+sudo apt install kali-desktop-gnome gdm3
+
+// Set GNOME as the Default Environment
+sudo update-alternatives --config x-session-manager
+
+// Restart WSL or the System
+wsl --shutdown
+wsl
+
+// To be continue ... 
 ```
 ---
 
