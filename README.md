@@ -149,6 +149,7 @@ wine xxxxxx.exe
 // Copyright (C) Microsoft Corporation. All rights reserved.
 // PS C:\WINDOWS\system32> wsl --status
 
+wsl --install
 wsl --update
 wsl --status
 wsl --list --online
