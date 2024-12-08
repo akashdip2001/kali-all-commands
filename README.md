@@ -178,6 +178,7 @@ ls
 | --- | --- |
 
 <img src="img/wsl remote desktop connect (3).png">
+<img src="img/kali in windows.png">
 
 ### in Kali cell
 ```
