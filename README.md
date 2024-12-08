@@ -174,6 +174,8 @@ ls
 ┌──(whitedevil㉿akashdip2001)-[/mnt/c/Users/akash/Desktop]
 └─$
 ```
+| [WSL more, ](./wsl-in-windows.md) | [file permissions](./permissions.md) |
+| --- | --- |
 
 <img src="img/wsl remote desktop connect (3).png">
 
