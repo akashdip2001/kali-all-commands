@@ -158,6 +158,23 @@ wsl --install -d kali-linux
 // set userName : XXXX
 // set Passward : 1XX
 ```
+```yaml
+┌──(whitedevil㉿akashdip2001)-[/]
+└─$ ls /mnt
+c  d  e  wsl  wslg
+
+┌──(whitedevil㉿akashdip2001)-[/]
+└─$ cd /mnt/c/Users
+ls
+ akash  'All Users'   Default  'Default User'   desktop.ini   Public
+
+┌──(whitedevil㉿akashdip2001)-[/mnt/c/Users]
+└─$ cd /mnt/c/Users/akash/Desktop
+
+┌──(whitedevil㉿akashdip2001)-[/mnt/c/Users/akash/Desktop]
+└─$
+```
+
 <img src="img/wsl remote desktop connect (3).png">
 
 ### in Kali cell
